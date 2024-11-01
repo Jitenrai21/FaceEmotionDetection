@@ -1,1 +1,2 @@
-Face expression detection project.
+Face expression detection project with less than 50% accuracy.
+
